@@ -1,4 +1,8 @@
-print("Hello, world");
+x="a"
+y="b"
 
-print("hello,python!");
+print(x)
+print(y)
+
+print('--------')
 
